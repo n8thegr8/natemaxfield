@@ -372,9 +372,6 @@ function SpringTile({
             {spec.meta}
           </span>
         </div>
-        <span className="font-mono text-[9px] uppercase tracking-widest text-pewter/50">
-          {spec.emoji} drag
-        </span>
       </div>
 
       <div>
