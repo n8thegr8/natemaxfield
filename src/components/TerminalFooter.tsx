@@ -23,7 +23,7 @@ const COMMANDS: Record<string, string[]> = {
     "• MaxAds — Proprietary macOS app (Google OAuth verified, Apple App Store)",
     "• FetchOil (fetchoil.com) — Free New England heating oil price & tank utility",
     "• Stairway to STEM (stairwaytostem.org) — Nonprofit platform for neurodivergent STEM students",
-    "• Client & Advisory — BrainStorm documentary, Fit Revolution, Crestwood Loan Advisors",
+    "• Client & Advisory — Maxfield Esthetics, Fit Revolution, Crestwood Loan Advisors",
   ],
   family: [
     "Life in Wakefield, MA with my wife Katie, our son and daughter (both on the",

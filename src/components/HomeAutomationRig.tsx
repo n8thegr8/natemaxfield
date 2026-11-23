@@ -72,7 +72,7 @@ const NODES: NodeSpec[] = [
     lines: ["Media & Video", "Pipeline"],
     color: "var(--coral)",
     role: "PHOTO / VIDEO & CREATIVE",
-    spec: "4K video production, photography workflow, BrainStorm documentary web strategy",
+    spec: "4K video production, photography workflow, and visual assets for Maxfield Esthetics",
     info: "media & video pipeline: timeline rendered · raw stills & assets synced",
   },
   {

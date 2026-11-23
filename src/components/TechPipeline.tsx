@@ -79,12 +79,12 @@ const PROJECTS: Project[] = [
     id: "digital-strategy",
     badge: "client & advisory",
     meta: "Shipped",
-    title: "BrainStorm, Fit Revolution & More",
-    desc: "Web iterations and SEO strategy for the documentary film BrainStorm, technical architecture for Fit Revolution, and consumer-protection web engineering for Crestwood Loan Advisors.",
+    title: "Maxfield Esthetics, Fit Revolution & More",
+    desc: "Building and maintaining the digital presence and booking experience for my wife Katie's practice, Maxfield Esthetics, alongside technical architecture for Fit Revolution and consumer-protection web engineering for Crestwood Loan Advisors.",
     tags: ["Web Engineering", "Domain Strategy", "UX"],
     accent: "var(--coral)",
-    architecture: "Custom web builds, domain authority migrations, technical SEO audits, and conversion-focused UX engineering.",
-    impact: "Delivering agency-grade engineering directly to documentary filmmakers, fitness platforms, and consumer advocates.",
+    architecture: "Custom web builds, local SEO & booking flows, domain authority migrations, and conversion-focused UX engineering.",
+    impact: "Powering my wife's esthetics business and delivering agency-grade engineering directly to fitness platforms and consumer advocates.",
   },
 ];
 
