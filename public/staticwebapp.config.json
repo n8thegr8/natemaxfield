@@ -1,0 +1,12 @@
+{
+  "trailingSlash": "auto",
+  "navigationFallback": {
+    "rewrite": "/index.html",
+    "exclude": ["/_next/*", "/*.{css,scss,js,png,gif,ico,jpg,svg,txt,xml}"]
+  },
+  "globalHeaders": {
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "DENY",
+    "Referrer-Policy": "strict-origin-when-cross-origin"
+  }
+}
