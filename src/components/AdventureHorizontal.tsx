@@ -16,7 +16,7 @@ const ADVENTURES = [
     region: "Wakefield / Saugus, MA",
     title: "Breakheart Trails",
     subtitle:
-      "Local forest loops, rocky ridges, and year-round trail miles right out the back door with my Golden Retriever.",
+      "Local forest loops, rocky ridges, and year-round trail miles right out the back door with my golden-lookalike mutt.",
     pill: "local stomping grounds",
     coords: "42.48° N · 71.03° W",
     elev: "240 ft · rocky ridge loops",
@@ -264,7 +264,7 @@ export default function AdventureHorizontal() {
             trailhead crew
           </div>
           <p className="mt-3 max-w-[16rem] text-sm leading-relaxed text-pewter">
-            A Golden Retriever who lives for trail walks, two cats, my wife
+            A golden-lookalike mutt who lives for trail walks, two cats, my wife
             Katie, and two kids on the spectrum share the trailhead. Click
             anywhere in this zone and a paw print drops.
           </p>

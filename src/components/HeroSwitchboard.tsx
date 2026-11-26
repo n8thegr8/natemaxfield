@@ -556,7 +556,7 @@ export default function HeroSwitchboard() {
                   <>
                     <strong className="text-chalk">STAGE 03 // OFF-GRID:</strong>{" "}
                     The circuit compiles into a New England topographic map —
-                    Katie, our two kids, a Golden Retriever, and trail miles.
+                    Katie, our two kids, a golden-lookalike mutt, and trail miles.
                   </>
                 )}
               </p>

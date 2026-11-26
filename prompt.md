@@ -87,7 +87,7 @@ However, the current display font is breaking the layout, and much of the copy i
 
   1. `#01 WAKEFIELD / SAUGUS, MA`
      * Title: **Breakheart Trails**
-     * Subtitle: `Local forest loops, rocky ridges, and year-round trail miles right out the back door with my Golden Retriever.`
+     * Subtitle: `Local forest loops, rocky ridges, and year-round trail miles right out the back door with my golden-lookalike mutt.`
      * Pill: `local stomping grounds`
 
   2. `#02 MAINE`
@@ -109,7 +109,7 @@ However, the current display font is breaking the layout, and much of the copy i
 
 ### 6. SECTION 04: THE OTHER VARIABLES (Fix the Draggable Bento Grid)
 * Keep the spring-physics drag behavior (`"Drag a tile — it fights back with a spring"`), and replace the cards with these exact 6 tiles (putting my family first and removing the fake coffee and gardening cards):
-  * 🏠 **The Household** (Large Feature Card): `"Life in Wakefield with my wife Katie, our son and daughter (both on the spectrum and keeping us on our toes), a Golden Retriever who lives for trail walks and the pool, and two cats who actually run the house."`
+  * 🏠 **The Household** (Large Feature Card): `"Life in Wakefield with my wife Katie, our son and daughter (both on the spectrum and keeping us on our toes), a golden-lookalike mutt who lives for trail walks and the pool, and two cats who actually run the house."`
   * 🎸 **Live Music & Guitars**: `"Summer amphitheater runs across New England (Dave Matthews Band at Mansfield, Gilford NH, Hartford CT) and playing acoustic and electric guitars at home."`
   * 🏊 **Backyard & DIY**: `"Maintaining the backyard pool for New England summers and tackling practical home renovations and woodworking projects when something actually needs building."`
   * 💻 **Late-Night Side Quests**: `"Homelab LLM setups, shipping apps through Maxfield Labs, photography, video production, and sporadic 3D printing."`

@@ -4,7 +4,7 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "Nate Maxfield — Maxfield Labs",
   description:
-    "AI engineer at Microsoft by day. After hours: family life in Wakefield, MA with my wife Katie and two kids on the spectrum, a Golden Retriever, two cats, and a pile of side quests. Maxfield Labs, FetchOil, and Stairway to STEM.",
+    "AI engineer at Microsoft by day. After hours: family life in Wakefield, MA with my wife Katie and two kids on the spectrum, a golden-lookalike mutt, two cats, and a pile of side quests. Maxfield Labs, FetchOil, and Stairway to STEM.",
   authors: [{ name: "Nate Maxfield" }],
   openGraph: {
     title: "Nate Maxfield — Maxfield Labs",

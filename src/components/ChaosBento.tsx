@@ -57,7 +57,7 @@ const TILES: TileSpec[] = [
     className:
       "col-span-2 row-span-2 bg-[var(--coral)]/5 border-[color-mix(in_srgb,var(--coral)_38%,transparent)]",
     detail:
-      "Life in Wakefield with my wife Katie, our son and daughter (both on the spectrum and keeping us on our toes), a Golden Retriever who lives for trail walks and the pool, and two cats who actually run the house.",
+      "Life in Wakefield with my wife Katie, our son and daughter (both on the spectrum and keeping us on our toes), a golden-lookalike mutt who lives for trail walks and the pool, and two cats who actually run the house.",
   },
   {
     id: "music",

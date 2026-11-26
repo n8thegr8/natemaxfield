@@ -10,7 +10,7 @@ const COMMANDS: Record<string, string[]> = {
   about: [
     "Nate Maxfield — AI engineer at Microsoft by day; tinkerer, builder, and",
     "family man after hours. Based in Wakefield, MA with my wife Katie, our son",
-    "and daughter (both on the spectrum), a Golden Retriever, and two cats.",
+    "and daughter (both on the spectrum), a golden-lookalike mutt, and two cats.",
   ],
   ai: [
     "By day I work as an engineer on teams developing, evaluating, and shipping",
@@ -27,7 +27,7 @@ const COMMANDS: Record<string, string[]> = {
   ],
   family: [
     "Life in Wakefield, MA with my wife Katie, our son and daughter (both on the",
-    "spectrum and keeping us on our toes), a Golden Retriever who lives for",
+    "spectrum and keeping us on our toes), a golden-lookalike mutt who lives for",
     "Breakheart trail walks and the backyard pool, and two cats who run the house.",
   ],
   lab: [
@@ -40,7 +40,7 @@ const COMMANDS: Record<string, string[]> = {
     "Gilford NH, Hartford CT) and playing acoustic and electric guitars at home.",
   ],
   pets: [
-    "1x Golden Retriever (Breakheart trail partner + backyard pool enthusiast)",
+    "1x Golden-lookalike mutt, 32.5 lbs (Breakheart trail + pool enthusiast)",
     "2x Cats (actual household management)",
   ],
   whoami: [
@@ -74,7 +74,7 @@ const HISTORY_SEED = [
   "$ about",
   "Nate Maxfield — AI engineer at Microsoft by day; tinkerer, builder, and",
   "family man after hours. Based in Wakefield, MA with my wife Katie, our son",
-  "and daughter (both on the spectrum), a Golden Retriever, and two cats.",
+  "and daughter (both on the spectrum), a golden-lookalike mutt, and two cats.",
 ];
 
 export default function TerminalFooter() {
